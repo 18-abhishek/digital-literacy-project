@@ -1,0 +1,34 @@
+# Stay Safe Online: A Checklist for Indian College Students
+
+Staying secure in a digital-first academic environment requires more than just a strong password. Use this checklist to audit your digital habits and protect your identity and finances.
+
+---
+
+## 🛡️ The Prevention Checklist
+
+### Financial & UPI Safety
+* **[ ] The 'Receive' Rule:** Never enter your UPI PIN or scan a QR code to *receive* money. A PIN is only required to deduct money from your account.
+* **[ ] Verify Display Names:** Before confirming any UPI transaction, double-check the verified name shown by the app (e.g., GPay/PhonePe) to ensure it matches the person or shop you intend to pay.
+
+### Account & Identity Protection
+* **[ ] Multi-Factor Authentication (MFA):** Enable 2FA on your university portal, WhatsApp, and Instagram. Use an authenticator app (like Google Authenticator) rather than SMS where possible.
+* **[ ] Social Media Privacy:** Use the "Lock Profile" feature on Facebook and restrict Instagram stories to "Close Friends" to prevent your photos from being used in identity theft or deepfake scams.
+* **[ ] Avoid 'Modded' Apps:** Do not install unofficial "Pro" or "Gold" versions of apps (like GB WhatsApp or modded Spotify). These often contain keyloggers that steal your login credentials.
+
+### Browsing & Connectivity
+* **[ ] Campus Wi-Fi Caution:** Avoid logging into banking apps or sensitive student portals on open canteen or hostel Wi-Fi without using a trusted VPN.
+* **[ ] The 'Job Offer' Red Flag:** Be skeptical of Telegram or WhatsApp messages offering "Part-time Like-and-Earn" jobs. If they ask for an "onboarding fee" or "security deposit," it is a scam.
+* **[ ] Link Scrutiny:** Always check the URL before entering credentials. A site like `uuniveristy-login.in` is not the same as `university.edu.in`.
+
+---
+
+## 🚨 How to Report Cybercrime
+
+If you have been scammed or suspect fraudulent activity, act immediately. Time is critical for freezing "money mules" accounts.
+
+1.  **National Helpline:** Call **1930** immediately to report financial fraud.
+2.  **Online Portal:** File a formal complaint at [cybercrime.gov.in](https://www.cybercrime.gov.in).
+3.  **Local Action:** Visit the nearest **Cyber Cell** at your local police station if the crime involves harassment or identity theft.
+
+---
+*Stay Alert. Stay Secure.*
