@@ -77,13 +77,13 @@ Prepared a case study on UPI fraud and created a prevention checklist to spread 
 
 ## 🔗 Useful Links
 
-- 🔹 **Google Form (Digital Literacy Quiz):** https://forms.gle/Pn4f6iiACmpXRvGAA
+- 🔹 **Google Form (Digital Literacy Quiz):** https://forms.gle/Hy45jiumVsyVusxL7
 
-- 🔹 **GitHub Profile:** https://github.com/bakaprince
+- 🔹 **GitHub Profile:** https://github.com/18-abhishek
 
-- 🔹 **LinkedIn Profile:** https://www.linkedin.com/in/bakaprince/
+- 🔹 **LinkedIn Profile:** https://www.linkedin.com/in/abhishek-%E2%80%8E-349292360/
 
-- 🔹 **Kaggle Profile:** https://www.kaggle.com/bakaprince
+- 🔹 **Kaggle Profile:** https://www.kaggle.com/abhishek182006
 
 ---
 
